@@ -1,2 +1,2 @@
 echo "Hello this is Master Branch"
-In Master
+echo "In Master"
