@@ -1,2 +1,2 @@
 echo "Hello this is Master Branch"
-M in Defect
+echo "M in Defect"
